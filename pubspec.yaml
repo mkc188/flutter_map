@@ -19,6 +19,8 @@ dependencies:
   flutter_image:
     git:
       url: git://github.com/flutter/flutter_image
-  cached_network_image: ^0.7.0
+  cached_network_image:
+    git:
+      url: git://github.com/mkc188/flutter_cached_network_image
 dev_dependencies:
   pedantic: ^1.4.0
